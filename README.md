@@ -1,6 +1,3 @@
-# veterinaria_react
-# veterinaria_react
-# citas_react
-# citas-react
-# citas-react
+
 # reactVeterinaria-01
+https://sparkling-brigadeiros-4c23fd.netlify.app
